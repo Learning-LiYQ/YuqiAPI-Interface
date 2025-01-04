@@ -1,0 +1,8 @@
+server:
+  port: 8111
+  servlet:
+    context-path: /api
+yuqiapi:
+  client:
+    access-key: liyuqi
+    secret-key: abcdef
